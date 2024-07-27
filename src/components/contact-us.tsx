@@ -84,11 +84,11 @@ export const ContactUs = ({ email, social_handle, about }: ContactProps) => {
               </Transition>
               <div className="text-2xl md:text-4xl font-bold py-2">
                 <Transition>
-                  <TextReveal>ayuaharshita14@gmail.com</TextReveal>
+                  <TextReveal>mraryangusain529@gmail.com</TextReveal>
                 </Transition>
               </div>
               <Transition>
-                <div className="pb-1 text-white/80">+91 9460865839</div>
+                <div className="pb-1 text-white/80">+91 8368312681</div>
               </Transition>
               <Transition>
                 <div className="text-white/80"> ABESIT Campus Rd, <br /> near Crossing Republik, NE-3, <br /> Crossings Republik, <br /> Ghaziabad, <br /> Uttar Pradesh 201009</div>
@@ -120,10 +120,10 @@ export const ContactUs = ({ email, social_handle, about }: ContactProps) => {
           <p>
             developed by @
             <Link
-              href={"https://twitter.com/tehseen_type"}
+              href={"https://github.com/Posiden01/PixelTeam"}
               className="hover:underline"
             >
-              Ayush Pratap Singh
+              TeamPixel
             </Link>
           </p>
         </Transition>
